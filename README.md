@@ -95,10 +95,10 @@ python -m uvicorn main:app --reload
 
 Open the following URLs:
 
-- API root: http://127.0.0.1:8000/
-- Swagger UI: http://127.0.0.1:8000/docs
-- ReDoc: http://127.0.0.1:8000/redoc
-- OpenAPI schema: http://127.0.0.1:8000/openapi.json
+- API root: http://127.0.0.1:......
+- Swagger UI: http://127.0.0.1:....../docs
+- ReDoc: http://127.0.0.1:......./redoc
+- OpenAPI schema: http://127.0.0.1:....../openapi.json
 
 ## 🔌 API Endpoints
 
